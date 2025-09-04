@@ -19,7 +19,7 @@ Tools Used: Python (google colab)
 
 ## 📌 Background & Overview
 
-###Objective:
+### Objective:
 
 ###📖 What is this project about? What Business Question will it solve?
 
@@ -34,12 +34,11 @@ Tools Used: Python (google colab)
 - How can we reduce transaction failure rates and improve overall processing efficiency?
 
 ### 👤 Who is this project for?
+- Product managers, marketing teams
 
--Product managers, marketing teams
+- Financial analysts
 
--Financial analysts
-
--Business Analysts/Management
+- Business Analysts/Management
 
 ## 📂 Dataset Description & Data Structure
 
